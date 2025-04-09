@@ -1,2 +1,2 @@
 # projects
-Local para guardar projetos
+Local para guardar projetos.
